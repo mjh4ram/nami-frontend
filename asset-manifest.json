@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nami-frontend/static/css/main.b8be3489.chunk.css",
+    "main.js": "/nami-frontend/static/js/main.85aa368b.chunk.js",
+    "main.js.map": "/nami-frontend/static/js/main.85aa368b.chunk.js.map",
+    "runtime-main.js": "/nami-frontend/static/js/runtime-main.90d0c5d1.js",
+    "runtime-main.js.map": "/nami-frontend/static/js/runtime-main.90d0c5d1.js.map",
+    "static/css/2.cd1c2086.chunk.css": "/nami-frontend/static/css/2.cd1c2086.chunk.css",
+    "static/js/2.da7595f2.chunk.js": "/nami-frontend/static/js/2.da7595f2.chunk.js",
+    "static/js/2.da7595f2.chunk.js.map": "/nami-frontend/static/js/2.da7595f2.chunk.js.map",
+    "index.html": "/nami-frontend/index.html",
+    "precache-manifest.5049f1016dc2796ebb65115720c7c6f8.js": "/nami-frontend/precache-manifest.5049f1016dc2796ebb65115720c7c6f8.js",
+    "service-worker.js": "/nami-frontend/service-worker.js",
+    "static/css/2.cd1c2086.chunk.css.map": "/nami-frontend/static/css/2.cd1c2086.chunk.css.map",
+    "static/css/main.b8be3489.chunk.css.map": "/nami-frontend/static/css/main.b8be3489.chunk.css.map",
+    "static/js/2.da7595f2.chunk.js.LICENSE.txt": "/nami-frontend/static/js/2.da7595f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d0c5d1.js",
+    "static/css/2.cd1c2086.chunk.css",
+    "static/js/2.da7595f2.chunk.js",
+    "static/css/main.b8be3489.chunk.css",
+    "static/js/main.85aa368b.chunk.js"
+  ]
+}
